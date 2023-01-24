@@ -1,0 +1,15 @@
+.leftSection{
+    border: 0px;
+    margin:0px;
+    max-width:250px;
+    min-width: 200px;
+    box-sizing: border-box;
+    padding: 0px;
+    height: 92vh;
+    width:22vw;
+    position: sticky;
+    top: 0px;
+    display: flex;
+    flex-direction: column;
+   
+}

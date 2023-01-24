@@ -1,0 +1,15 @@
+.createPost{
+    position: sticky;
+top:0px;
+z-index:1000;
+  background: white;
+  width:97.6%;
+  border-radius: 10px;
+  margin-bottom: 10px;
+  height: fit-content;
+  padding:10px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  align-items: stretch;
+}

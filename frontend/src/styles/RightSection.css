@@ -1,0 +1,12 @@
+.rightSection{
+    box-sizing: border-box;
+    background: hsl(220, 31%, 56%);
+    width: 72vw;
+    margin-left: 35px;
+    border-radius: 15px;
+    padding: 5px;
+    display: flex;
+    align-items: stretch;
+    flex-direction: column;
+    
+}

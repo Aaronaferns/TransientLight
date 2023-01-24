@@ -1,0 +1,7 @@
+.home{
+    padding: 30px;
+    display: flex;
+    flex-direction: row;
+    min-width: 1300px;
+    background:#3E2C41;
+}
